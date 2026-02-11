@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FM Music Station",
+  "description": "A professional music distribution platform for artists to manage releases, upload tracks, and track performance analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
